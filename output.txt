@@ -1,0 +1,10 @@
+Sky = Cloudy
+----------------------------------------
+P(Rain)              = 0.4
+P(Not Rain)          = 0.6
+P(Cloudy | Rain)     = 0.875
+P(Cloudy | Not Rain) = 0.25
+P(Rain | Cloudy)     = 0.7
+P(Not Rain | Cloudy) = 0.3
+----------------------------------------
+Predicted Weather = Rain
